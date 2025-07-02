@@ -1,19 +1,32 @@
-# Módulo 3 - Trilha HTML
+# Spider-Man: No Way Home - Página Informativa (HTML & CSS Básico)
 
-**Título:** Recriando Wikipedia, com um layout melhor :)
+Este projeto foi desenvolvido como parte do desafio de HMTL "Recriando a Wikipedia com Layout Moderno" da DIO.me, com o objetivo de praticar a estruturação de páginas web.
 
-## Objetivo
-Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
+## 🌟 Sobre o Projeto
 
-## Desafio
-Neste repositório tem uma estrutura básica já pré-montada de um layout simples com um pouco de CSS aplicado. Apenas para deixar mais apresentável.
+A página apresenta informações detalhadas sobre o filme "Spider-Man: No Way Home" (Homem-Aranha: Sem Volta para Casa), incluindo sua sinopse, contexto de produção e o elenco principal. O foco está na organização do conteúdo utilizando as tags HTML mais adequadas e na aplicação de estilos CSS para melhorar a experiência visual.
 
-Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quiserem. O intuito aqui é divertir, e ao mesmo tempo aprender com o desafio.
+## ✨ Tecnologias Utilizadas
 
-Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
+* **HTML5:** Para a estrutura e semântica do conteúdo.
+* **CSS3:** Para estilizações básicas e organização visual da página.
 
-## Links úteis
-- [Download do NVDA](https://www.nvaccess.org/download/)
-- [Wikipedia](https://pt.wikipedia.org/)
+## 🚀 Estrutura do Projeto
 
+O projeto é composto por um arquivo HTML principal e uma folha de estilos CSS:
 
+![Estrutura de pastas](assets/images/estrutura-pastas.png "Estrutura de pastas do projeto")
+
+## 🌐 Como Visualizar o Projeto
+
+Para visualizar este projeto em seu navegador:
+
+1.  Clone este repositório para sua máquina local.
+2.  Navegue até a pasta raiz do projeto.
+3.  Abra o arquivo `index.html` em seu navegador web preferido.
+
+## 📚 Aulas e Referências
+
+* **Bootcamp:** Bootcamp Santander 2025 - Front-end - https://web.dio.me/track/santander-2025-front-end
+* **DIO.me:** [https://www.dio.me/](https://www.dio.me/)
+* **Conteúdo do Filme:** Resumos e informações adaptados do artigo de "Spider-Man: No Way Home", da Wikipedia - https://pt.wikipedia.org/wiki/Spider-Man:_No_Way_Home
